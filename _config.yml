@@ -23,7 +23,7 @@ repository               : "susannalles/AcademicPageDemo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile2.jpg"
+  avatar           : "images/profile2.jpg"
   name             : "Susanna Alles-Torrent"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
